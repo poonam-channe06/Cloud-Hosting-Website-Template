@@ -1,3 +1,3 @@
-# Crypto-website
-Cloud Hosting Website Template
+# Cloud Hosting Website Template
+
 
